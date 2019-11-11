@@ -11,8 +11,11 @@ La actividad ha sido realizada de manera individual por # Diego Armando Cale Pil
 # Ficheros del código fuente
 
 •	El peor día del año 5K.py: contiene el código implementado para el desarrollo de la práctica.
+
 •	El peor día del año 5K. ipynb: contiene el notebook detallado de la implementación de la librería BeautifulSoup que contiene los métodos que generan el conjunto de datos a partir de la base de datos online Hubertiming.
+
 •	corredores5k.csv: contiene el dataset en formato csv como resultado de la práctica.
+
 # Ficheros del código fuente
 •	El peor día del año 5K - Colaboratory.pdf  contiene el notebook en formato pdf descargado de Colaboratory es un entorno de notebook de Jupyter que se ejecuta completamente en la nube. Con Colaboratory se puede escribir y ejecutar código, guardar y compartir análisis, y acceder a recursos informáticos potentes, todo gratis en tu navegador. El notebook es una lista de celdas. Las celdas contienen texto explicativo o código ejecutable y su salida.
 
