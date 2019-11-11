@@ -6,7 +6,7 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ci
 
 # Miembros del equipo
 
-La actividad ha sido realizada de manera individual por # Diego Armando Cale Pillco.
+La actividad ha sido realizada de manera individual por # Diego Armando Cale Pillco
 
 # Ficheros del código fuente
 
